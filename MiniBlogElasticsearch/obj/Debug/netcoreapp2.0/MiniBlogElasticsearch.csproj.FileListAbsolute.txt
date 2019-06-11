@@ -1,0 +1,11 @@
+C:\Users\itiro\source\repos\ElasticTest\MiniBlogElasticsearch\bin\Debug\netcoreapp2.0\MiniBlogElasticsearch.deps.json
+C:\Users\itiro\source\repos\ElasticTest\MiniBlogElasticsearch\bin\Debug\netcoreapp2.0\MiniBlogElasticsearch.runtimeconfig.json
+C:\Users\itiro\source\repos\ElasticTest\MiniBlogElasticsearch\bin\Debug\netcoreapp2.0\MiniBlogElasticsearch.runtimeconfig.dev.json
+C:\Users\itiro\source\repos\ElasticTest\MiniBlogElasticsearch\bin\Debug\netcoreapp2.0\MiniBlogElasticsearch.dll
+C:\Users\itiro\source\repos\ElasticTest\MiniBlogElasticsearch\bin\Debug\netcoreapp2.0\MiniBlogElasticsearch.pdb
+C:\Users\itiro\source\repos\ElasticTest\MiniBlogElasticsearch\obj\Debug\netcoreapp2.0\MiniBlogElasticsearch.csprojAssemblyReference.cache
+C:\Users\itiro\source\repos\ElasticTest\MiniBlogElasticsearch\obj\Debug\netcoreapp2.0\MiniBlogElasticsearch.csproj.CoreCompileInputs.cache
+C:\Users\itiro\source\repos\ElasticTest\MiniBlogElasticsearch\obj\Debug\netcoreapp2.0\MiniBlogElasticsearch.AssemblyInfoInputs.cache
+C:\Users\itiro\source\repos\ElasticTest\MiniBlogElasticsearch\obj\Debug\netcoreapp2.0\MiniBlogElasticsearch.AssemblyInfo.cs
+C:\Users\itiro\source\repos\ElasticTest\MiniBlogElasticsearch\obj\Debug\netcoreapp2.0\MiniBlogElasticsearch.dll
+C:\Users\itiro\source\repos\ElasticTest\MiniBlogElasticsearch\obj\Debug\netcoreapp2.0\MiniBlogElasticsearch.pdb
