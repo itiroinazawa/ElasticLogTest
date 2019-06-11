@@ -13312,11 +13312,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\itiro\\source\\repos\\ElasticTest\\MiniBlogElasticsearch\\MiniBlogElasticsearch.csproj",
+      "projectUniqueName": "C:\\git-projects\\ElasticLogTest\\MiniBlogElasticsearch\\MiniBlogElasticsearch.csproj",
       "projectName": "MiniBlogElasticsearch",
-      "projectPath": "C:\\Users\\itiro\\source\\repos\\ElasticTest\\MiniBlogElasticsearch\\MiniBlogElasticsearch.csproj",
+      "projectPath": "C:\\git-projects\\ElasticLogTest\\MiniBlogElasticsearch\\MiniBlogElasticsearch.csproj",
       "packagesPath": "C:\\Users\\itiro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\itiro\\source\\repos\\ElasticTest\\MiniBlogElasticsearch\\obj\\",
+      "outputPath": "C:\\git-projects\\ElasticLogTest\\MiniBlogElasticsearch\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
